@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![image](https://github.com/BuiNgocHai/BuiNgocHai/blob/master/dino.gif)
 <!--
 **BuiNgocHai/BuiNgocHai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
