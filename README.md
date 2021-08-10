@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/bui-hai-68b224192/">
   <img align="left" alt="Hai's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/amandewatnitrr">
+<a href="https://github.com/BuiNgocHai">
   <img align="left" alt="Hai's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UCDUaQCTuj7qAIx6TMgW8XqA">
@@ -14,7 +14,7 @@
 </a>
 
 <br><br>
-![](https://github.com/BuiNgocHai/BuiNgocHai/blob/master/images/header.png)
+![](https://github.com/BuiNgocHai/BuiNgocHai/blob/master/images/header_1.png)
 
 ##
 <div>
@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/BuiNgocHai"><span>    
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=BuiNgocHai&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BuiNgocHai&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
     </span></a>
 </p>
