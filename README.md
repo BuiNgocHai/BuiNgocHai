@@ -61,21 +61,22 @@
   
 ##
 
- ### Github Stats
-  
 <p align="center">
-  <a href="https://github.com/BuiNgocHai"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=BuiNgocHai&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuiNgocHai&theme=radical" />
+  <a href="https://github.com/BuiNgocHai"><span>    
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BuiNgocHai&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BuiNgocHai&theme=dracula" />
     </span></a>
 </p>
   
 <!--
+
+
+
 ![image](https://github.com/BuiNgocHai/BuiNgocHai/blob/master/dino.gif)
 **BuiNgocHai/BuiNgocHai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuiNgocHai&theme=radical" />
 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BuiNgocHai&theme=dracula" />
 Here are some ideas to get you started:
   
 ## <p align="center"><h4 align="center"><samp> I'm an Artificial Intelligence Engineer </samp></h4></p>
