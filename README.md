@@ -32,8 +32,8 @@
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Member of Data Mining at Lotus social network (develop video recommended system) <br>
 -🕵🏻 <samp>Member of Not-Trash-Car team in self-driving car development competition <br>
--💻  <samp>Develop abnormal classification of students in the exam room <br>
--🔬 <samp>Working in Automatic extract information of document <br>
+-💻  <samp>Develop abnormal classification of students in the exam room with my team<br>
+-🔬 <samp>Working with automatic system of document analysis<br>
   </div>
   
 ##
