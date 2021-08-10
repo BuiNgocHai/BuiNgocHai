@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/BuiNgocHai"><span>    
-    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=BuiNgocHai&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" />
+    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=BuiNgocHai&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BuiNgocHai&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
     </span></a>
 </p>
